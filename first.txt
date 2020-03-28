@@ -4,3 +4,4 @@ Git‚ÅŠÇ—‚µ‚Ü‚·B
 git add
 git commit
 git rm
+git status
