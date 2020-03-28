@@ -1,2 +1,5 @@
 これは最初のテキストです。
 Gitで管理します。
+
+git add
+git commit
